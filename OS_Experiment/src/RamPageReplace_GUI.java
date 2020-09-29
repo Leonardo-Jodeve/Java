@@ -127,9 +127,7 @@ public class RamPageReplace_GUI implements ActionListener
     JPanel background = new JPanel();
     JPanel[] panels = new JPanel[7];
     JPanel buttonPanel = new JPanel();
-    JTextField in
-
-        put = new JTextField();
+    JTextField input = new JTextField();
     JTextField[][] OPT,FIFO,LRU;
     JButton[] buttons = new JButton[5];
     JLabel[] labels = new JLabel[4];
