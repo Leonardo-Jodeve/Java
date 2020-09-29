@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="504784cd-4988-4393-b8ac-b751d2a696a6" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Thread Exercise/META-INF/Thread Exercise.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Thread Exercise/Ram.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thread Exercise/Ram.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeworkCheater.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PasswordGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RamPageReplace.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1dOFhxns8HMEtwFJQTIxfRs11FO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560088833554" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.29425287" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.RamPageReplace">
+    <configuration name="HomeworkCheater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeworkCheater" />
+      <module name="Thread Exercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PasswordGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PasswordGenerator" />
+      <module name="Thread Exercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ram" />
+      <module name="Thread Exercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RamPageReplace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RamPageReplace" />
+      <module name="Thread Exercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimeThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TimeThread" />
+      <module name="Thread Exercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RamPageReplace" />
+        <item itemvalue="Application.HomeworkCheater" />
+        <item itemvalue="Application.PasswordGenerator" />
+        <item itemvalue="Application.TimeThread" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="504784cd-4988-4393-b8ac-b751d2a696a6" name="默认更改列表" comment="" />
+      <created>1558684278489</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558684278489</updated>
+      <workItem from="1558684282222" duration="650000" />
+      <workItem from="1559299442747" duration="6371000" />
+      <workItem from="1559323504950" duration="2769000" />
+      <workItem from="1559359480847" duration="1614000" />
+      <workItem from="1559488756484" duration="95000" />
+      <workItem from="1559547708824" duration="4756000" />
+      <workItem from="1559567404804" duration="16000" />
+      <workItem from="1559570874744" duration="218000" />
+      <workItem from="1559609375820" duration="254000" />
+      <workItem from="1559616734393" duration="996000" />
+      <workItem from="1559625394137" duration="273000" />
+      <workItem from="1559710032816" duration="19000" />
+      <workItem from="1559724323589" duration="17000" />
+      <workItem from="1559742972587" duration="2267000" />
+      <workItem from="1559884213083" duration="7000" />
+      <workItem from="1560061722925" duration="630000" />
+      <workItem from="1560063772904" duration="929000" />
+      <workItem from="1560073727300" duration="490000" />
+      <workItem from="1560081113479" duration="2942000" />
+      <workItem from="1560088788056" duration="49000" />
+      <workItem from="1561856559865" duration="626000" />
+      <workItem from="1561872718627" duration="219000" />
+      <workItem from="1592288359517" duration="4655000" />
+      <workItem from="1592293584304" duration="10994000" />
+      <workItem from="1592358417877" duration="9434000" />
+      <workItem from="1592372134035" duration="1571000" />
+      <workItem from="1592399145657" duration="1148000" />
+      <workItem from="1592408114785" duration="19000" />
+      <workItem from="1592526878063" duration="1347000" />
+      <workItem from="1592530317203" duration="15188000" />
+      <workItem from="1592547662196" duration="10000" />
+      <workItem from="1592548092101" duration="2670000" />
+      <workItem from="1592552533921" duration="921000" />
+      <workItem from="1592649685048" duration="865000" />
+      <workItem from="1592789773775" duration="785000" />
+      <workItem from="1592790976868" duration="307000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser" timestamp="1592362597562">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1592362597562" />
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592791240498">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1592791240498" />
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1592290696492">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1592290696492" />
+    <state width="1493" height="155" key="GridCell.Tab.0.bottom" timestamp="1592551507152">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="155" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592551507152" />
+    <state width="1493" height="155" key="GridCell.Tab.0.center" timestamp="1592551507151">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="155" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1592551507151" />
+    <state width="1493" height="155" key="GridCell.Tab.0.left" timestamp="1592551507151">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="155" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1592551507151" />
+    <state width="1493" height="155" key="GridCell.Tab.0.right" timestamp="1592551507152">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="155" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1592551507151" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1592544387794">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592544387794" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1592544387793">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1592544387793" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1592544387793">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1592544387793" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1592544387794">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1592544387794" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1592552562502">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1592552562502" />
+    <state x="479" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1592789806110">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="479" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1592789806110" />
+    <state x="499" y="183" key="extract.method.dialog" timestamp="1592399523442">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="183" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1592399523442" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1592544582932">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1592544582932" />
+  </component>
+</project>

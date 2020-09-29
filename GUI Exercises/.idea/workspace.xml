@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="GUI Exercises:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1e706513-583c-49a6-a88e-1039cef45160" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/../OS_Experiment/src/RamPageDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OS_Experiment/src/RamPageReplace_GUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GUI Exercises/AddFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GUI Exercises/AddFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GUI Exercises/CopyCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GUI Exercises/CopyCalculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GUI Exercises/HexToBin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GUI Exercises/HexToBin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GUI Exercises/NewComponent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GUI Exercises/NewComponent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GUI Exercises/Pedometer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GUI Exercises/Pedometer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GUI Exercises/Rename.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GUI Exercises/Rename.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GUI Exercises/WeighedAverage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GUI Exercises/WeighedAverage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OS_Experiment/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OS_Experiment/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OS_Experiment/OS_Experiment.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../OS_Experiment/OS_Experiment.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OS_Experiment/out/production/OS_Experiment/DiskAccess_GUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/../OS_Experiment/out/production/OS_Experiment/DiskAccess_GUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OS_Experiment/out/production/OS_Experiment/Ram.class" beforeDir="false" afterPath="$PROJECT_DIR$/../OS_Experiment/out/production/OS_Experiment/Ram.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OS_Experiment/src/DiskAccess_GUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OS_Experiment/src/DiskAccess_GUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OS_Experiment/src/Ram.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OS_Experiment/src/Ram.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/GUI_Exercises$CopyCalculator.ic" NAME="CopyCalculator Coverage Results" MODIFIED="1557816830246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="209" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>frame</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>this</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/WeighedAverage.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1R5kjWYvDxgkOBlWmcjwseI4yQQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568823156202" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager" selected="Application.WeighedAverage">
+    <configuration name="Girlfriend" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Girlfriend" />
+      <module name="GUI Exercises" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HexToBin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HexToBin" />
+      <module name="GUI Exercises" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NewComponent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NewComponent" />
+      <module name="GUI Exercises" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Rename" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Rename" />
+      <module name="GUI Exercises" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringText" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringText" />
+      <module name="GUI Exercises" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WeighedAverage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WeighedAverage" />
+      <module name="GUI Exercises" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WeighedAverage" />
+        <item itemvalue="Application.NewComponent" />
+        <item itemvalue="Application.StringText" />
+        <item itemvalue="Application.HexToBin" />
+        <item itemvalue="Application.Girlfriend" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e706513-583c-49a6-a88e-1039cef45160" name="默认更改列表" comment="" />
+      <created>1557237308127</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557237308127</updated>
+      <workItem from="1557237314378" duration="5755000" />
+      <workItem from="1557474081652" duration="1432000" />
+      <workItem from="1557497007792" duration="8432000" />
+      <workItem from="1557545313352" duration="2336000" />
+      <workItem from="1557548567161" duration="1849000" />
+      <workItem from="1557550916209" duration="3126000" />
+      <workItem from="1557561340092" duration="3443000" />
+      <workItem from="1557624769363" duration="2637000" />
+      <workItem from="1557670863443" duration="627000" />
+      <workItem from="1557672203794" duration="3000" />
+      <workItem from="1557672424874" duration="613000" />
+      <workItem from="1557760665682" duration="327000" />
+      <workItem from="1557816499731" duration="1487000" />
+      <workItem from="1557818059140" duration="344000" />
+      <workItem from="1557848368184" duration="565000" />
+      <workItem from="1557848936868" duration="2421000" />
+      <workItem from="1557903969550" duration="909000" />
+      <workItem from="1557904987823" duration="204000" />
+      <workItem from="1557915546169" duration="438000" />
+      <workItem from="1558619816922" duration="114000" />
+      <workItem from="1558683925928" duration="5956000" />
+      <workItem from="1558690176027" duration="636000" />
+      <workItem from="1558880004309" duration="2275000" />
+      <workItem from="1558882558212" duration="113000" />
+      <workItem from="1559092026127" duration="364000" />
+      <workItem from="1559132996097" duration="7000" />
+      <workItem from="1559288669792" duration="1043000" />
+      <workItem from="1559299330402" duration="108000" />
+      <workItem from="1559323020110" duration="768000" />
+      <workItem from="1559359544949" duration="421000" />
+      <workItem from="1559488739145" duration="127000" />
+      <workItem from="1559547576435" duration="3734000" />
+      <workItem from="1559724344830" duration="2515000" />
+      <workItem from="1559737541570" duration="11000" />
+      <workItem from="1560088591203" duration="5119000" />
+      <workItem from="1560094514851" duration="5062000" />
+      <workItem from="1560127412949" duration="3489000" />
+      <workItem from="1560174141128" duration="3662000" />
+      <workItem from="1560211561025" duration="1201000" />
+      <workItem from="1560265417252" duration="852000" />
+      <workItem from="1560513712852" duration="898000" />
+      <workItem from="1560523072485" duration="93000" />
+      <workItem from="1560563793635" duration="756000" />
+      <workItem from="1561108064442" duration="48000" />
+      <workItem from="1561208634762" duration="85000" />
+      <workItem from="1561692185492" duration="425000" />
+      <workItem from="1561700806928" duration="291000" />
+      <workItem from="1561790346264" duration="1997000" />
+      <workItem from="1561852665799" duration="1741000" />
+      <workItem from="1561872940940" duration="2106000" />
+      <workItem from="1561894669583" duration="942000" />
+      <workItem from="1562046405767" duration="2636000" />
+      <workItem from="1562491771049" duration="86000" />
+      <workItem from="1562681369988" duration="33000" />
+      <workItem from="1562681486378" duration="63000" />
+      <workItem from="1562681812099" duration="75000" />
+      <workItem from="1565108032471" duration="2178000" />
+      <workItem from="1565110410351" duration="315000" />
+      <workItem from="1565137958405" duration="4060000" />
+      <workItem from="1566267091805" duration="219000" />
+      <workItem from="1568125634740" duration="2158000" />
+      <workItem from="1568564247811" duration="2936000" />
+      <workItem from="1568567270340" duration="1524000" />
+      <workItem from="1568599465594" duration="3742000" />
+      <workItem from="1568604641179" duration="5478000" />
+      <workItem from="1568612307193" duration="56000" />
+      <workItem from="1568612964012" duration="638000" />
+      <workItem from="1568613824093" duration="795000" />
+      <workItem from="1568706219951" duration="30000" />
+      <workItem from="1568711224869" duration="687000" />
+      <workItem from="1568791624892" duration="5287000" />
+      <workItem from="1568797623242" duration="145000" />
+      <workItem from="1568820050120" duration="1031000" />
+      <workItem from="1568821188016" duration="2062000" />
+      <workItem from="1568823271975" duration="37000" />
+      <workItem from="1568963514952" duration="713000" />
+      <workItem from="1568964484778" duration="700000" />
+      <workItem from="1568965197261" duration="56000" />
+      <workItem from="1568965337850" duration="645000" />
+      <workItem from="1568968523143" duration="63000" />
+      <workItem from="1568968600412" duration="7000" />
+      <workItem from="1568984139357" duration="14000" />
+      <workItem from="1569310461288" duration="10000" />
+      <workItem from="1580305423497" duration="305000" />
+      <workItem from="1580305738875" duration="49000" />
+      <workItem from="1580305893053" duration="838000" />
+      <workItem from="1588430312063" duration="555000" />
+      <workItem from="1590637866873" duration="54000" />
+      <workItem from="1590637930436" duration="5000" />
+      <workItem from="1593221159872" duration="2228000" />
+      <workItem from="1593228394681" duration="1487000" />
+      <workItem from="1593240568913" duration="1104000" />
+      <workItem from="1601198081225" duration="1457000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1493" height="113" key="GridCell.Tab.0.bottom" timestamp="1601208333378">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="113" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601208333378" />
+    <state width="1493" height="113" key="GridCell.Tab.0.center" timestamp="1601208333378">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="113" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601208333378" />
+    <state width="1493" height="113" key="GridCell.Tab.0.left" timestamp="1601208333378">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="113" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601208333378" />
+    <state width="1493" height="113" key="GridCell.Tab.0.right" timestamp="1601208333378">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="113" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601208333378" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+</project>
